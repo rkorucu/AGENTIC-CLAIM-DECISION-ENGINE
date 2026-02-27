@@ -1,0 +1,25 @@
+{
+  "claimId": "CLM-2024-003",
+  "claimant": {
+    "fullName": "Bob Wilson",
+    "state": "FL"
+  },
+  "policy": {
+    "policyId": "POL-11111",
+    "coverageType": "AUTO",
+    "coverageLimit": 10000,
+    "deductible": 2000,
+    "active": true
+  },
+  "incident": {
+    "type": "THEFT",
+    "date": "2024-02-10",
+    "description": "Stolen items."
+  },
+  "claim": {
+    "amount": 12000,
+    "priorClaimsCount": 4,
+    "hasPoliceReport": false,
+    "attachmentsCount": 0
+  }
+}

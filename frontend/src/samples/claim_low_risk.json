@@ -1,0 +1,25 @@
+{
+  "claimId": "CLM-2024-001",
+  "claimant": {
+    "fullName": "Jane Doe",
+    "state": "CA"
+  },
+  "policy": {
+    "policyId": "POL-12345",
+    "coverageType": "AUTO",
+    "coverageLimit": 25000,
+    "deductible": 500,
+    "active": true
+  },
+  "incident": {
+    "type": "COLLISION",
+    "date": "2024-01-15",
+    "description": "Vehicle was struck from behind while stopped at a red light. The other driver admitted fault and provided insurance information. Damage to rear bumper and trunk."
+  },
+  "claim": {
+    "amount": 3500,
+    "priorClaimsCount": 0,
+    "hasPoliceReport": true,
+    "attachmentsCount": 5
+  }
+}

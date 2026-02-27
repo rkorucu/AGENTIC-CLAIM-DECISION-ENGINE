@@ -1,0 +1,25 @@
+{
+  "claimId": "CLM-2024-002",
+  "claimant": {
+    "fullName": "John Smith",
+    "state": "TX"
+  },
+  "policy": {
+    "policyId": "POL-67890",
+    "coverageType": "HOME",
+    "coverageLimit": 15000,
+    "deductible": 1000,
+    "active": true
+  },
+  "incident": {
+    "type": "VANDALISM",
+    "date": "2024-02-01",
+    "description": "Broken windows and graffiti on property."
+  },
+  "claim": {
+    "amount": 4500,
+    "priorClaimsCount": 2,
+    "hasPoliceReport": false,
+    "attachmentsCount": 2
+  }
+}
