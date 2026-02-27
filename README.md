@@ -287,3 +287,4 @@ MIT License. See LICENSE file for details.
 
 - Inspired by AgenticCalendar-style mono-repo architecture
 - Built with Spring Boot, FastAPI, React, and Vite
+# AGENTIC-CLAIM-DECISION-ENGINE
